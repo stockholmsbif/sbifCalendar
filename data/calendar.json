@@ -52,7 +52,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -76,7 +76,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -100,7 +100,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -124,7 +124,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -148,7 +148,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "15:15",
         "endtime": "15:55",
         "dates": [
@@ -172,7 +172,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "16:00",
         "endtime": "16:40",
         "dates": [
@@ -196,7 +196,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -220,7 +220,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -244,7 +244,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -268,7 +268,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -292,7 +292,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "12:00",
         "endtime": "12:40",
         "dates": [
@@ -316,7 +316,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "12:45",
         "endtime": "13:25",
         "dates": [
@@ -340,7 +340,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "13:30",
         "endtime": "14:10",
         "dates": [
@@ -364,7 +364,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "14:15",
         "endtime": "14:55",
         "dates": [
@@ -388,7 +388,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "15:00",
         "endtime": "15:40",
         "dates": [
@@ -412,7 +412,7 @@
       },
       {
         "name": "Johannes skola (nedre salen)",
-        "weekday": "m?ndagar",
+        "weekday": "måndagar",
         "starttime": "17:00",
         "endtime": "17:40",
         "dates": [
@@ -436,7 +436,7 @@
       },
       {
         "name": "Johannes skola (nedre salen)",
-        "weekday": "m?ndagar",
+        "weekday": "måndagar",
         "starttime": "17:40",
         "endtime": "18:20",
         "dates": [
@@ -460,7 +460,7 @@
       },
       {
         "name": "Johannes skola (nedre salen)",
-        "weekday": "m?ndagar",
+        "weekday": "måndagar",
         "starttime": "18:20",
         "endtime": "19:00",
         "dates": [
@@ -483,8 +483,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -507,8 +507,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -531,8 +531,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -555,8 +555,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -579,8 +579,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -603,8 +603,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -627,8 +627,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -651,8 +651,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -675,8 +675,8 @@
         ]
       },
       {
-        "name": "?stermalmsskolan",
-        "weekday": "l?rdagar",
+        "name": "Östermalmsskolan",
+        "weekday": "lördagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -699,7 +699,7 @@
         ]
       }
     ],
-    "updated_at": "2025-09-06T22:43:03.899Z"
+    "updated_at": "2025-09-06T22:45:27.373Z"
   },
   {
     "section": "Bamse",
@@ -754,7 +754,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -778,7 +778,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -802,7 +802,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -826,7 +826,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -850,7 +850,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "15:15",
         "endtime": "15:55",
         "dates": [
@@ -874,7 +874,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "l?rdagar",
+        "weekday": "lördagar",
         "starttime": "16:00",
         "endtime": "16:40",
         "dates": [
@@ -898,7 +898,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -922,7 +922,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -946,7 +946,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -970,7 +970,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -994,7 +994,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "12:00",
         "endtime": "12:40",
         "dates": [
@@ -1018,7 +1018,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "12:45",
         "endtime": "13:25",
         "dates": [
@@ -1042,7 +1042,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "13:30",
         "endtime": "14:10",
         "dates": [
@@ -1066,7 +1066,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "14:15",
         "endtime": "14:55",
         "dates": [
@@ -1090,7 +1090,7 @@
       },
       {
         "name": "Karlbergs skola",
-        "weekday": "s?ndagar",
+        "weekday": "söndagar",
         "starttime": "15:00",
         "endtime": "15:40",
         "dates": [
@@ -1114,7 +1114,7 @@
       },
       {
         "name": "Johannes skola (nedre salen)",
-        "weekday": "m?ndagar",
+        "weekday": "måndagar",
         "starttime": "17:00",
         "endtime": "17:40",
         "dates": [
@@ -1138,7 +1138,7 @@
       },
       {
         "name": "Johannes skola (nedre salen)",
-        "weekday": "m?ndagar",
+        "weekday": "måndagar",
         "starttime": "17:40",
         "endtime": "18:20",
         "dates": [
@@ -1162,7 +1162,7 @@
       },
       {
         "name": "Johannes skola (nedre salen)",
-        "weekday": "m?ndagar",
+        "weekday": "måndagar",
         "starttime": "18:20",
         "endtime": "19:00",
         "dates": [
@@ -1185,8 +1185,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -1209,8 +1209,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -1233,8 +1233,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -1257,8 +1257,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "l?rdagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -1281,8 +1281,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "09:00",
         "endtime": "09:40",
         "dates": [
@@ -1305,8 +1305,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "09:45",
         "endtime": "10:25",
         "dates": [
@@ -1329,8 +1329,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "10:30",
         "endtime": "11:10",
         "dates": [
@@ -1353,8 +1353,8 @@
         ]
       },
       {
-        "name": "Johannes skola (?vre salen)",
-        "weekday": "s?ndagar",
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -1377,8 +1377,8 @@
         ]
       },
       {
-        "name": "?stermalmsskolan",
-        "weekday": "l?rdagar",
+        "name": "Östermalmsskolan",
+        "weekday": "lördagar",
         "starttime": "11:15",
         "endtime": "11:55",
         "dates": [
@@ -1401,6 +1401,6 @@
         ]
       }
     ],
-    "updated_at": "2025-09-06T22:43:03.899Z"
+    "updated_at": "2025-09-06T22:45:27.373Z"
   }
 ]
