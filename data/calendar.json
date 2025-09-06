@@ -19,7 +19,8 @@
           "2025-11-11",
           "2025-11-18",
           "2025-11-25"
-        ]
+        ],
+        "Status": "Hide"
       },
       {
         "name": "Karlbergs skola",
@@ -38,7 +39,8 @@
           "2025-11-11",
           "2025-11-18",
           "2025-11-25"
-        ]
+        ],
+        "Status": "Hide"
       },
       {
         "name": "Karlbergs skola",
@@ -57,7 +59,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -76,7 +79,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -95,7 +99,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -114,7 +119,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -133,7 +139,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Hide"
       },
       {
         "name": "Karlbergs skola",
@@ -152,7 +159,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Hide"
       },
       {
         "name": "Karlbergs skola",
@@ -171,7 +179,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -190,7 +199,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -209,7 +219,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -228,7 +239,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -247,7 +259,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -266,7 +279,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -285,7 +299,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -304,7 +319,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Karlbergs skola",
@@ -323,7 +339,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -342,7 +359,8 @@
           "2025-11-10",
           "2025-11-17",
           "2025-11-24"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -361,7 +379,8 @@
           "2025-11-10",
           "2025-11-17",
           "2025-11-24"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -380,7 +399,8 @@
           "2025-11-10",
           "2025-11-17",
           "2025-11-24"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -399,7 +419,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -418,7 +439,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -437,7 +459,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -456,7 +479,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -475,7 +499,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -494,7 +519,8 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -513,7 +539,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -532,7 +559,8 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       },
       {
         "name": "Östermalmsskolan",
@@ -551,10 +579,11 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept"
       }
     ],
-    "updated_at": "2025-09-06T23:06:38.613Z"
+    "updated_at": "2025-09-06T23:28:15.059Z"
   },
   {
     "section": "Parkour",
@@ -576,7 +605,9 @@
           "2025-11-11",
           "2025-11-18",
           "2025-11-25"
-        ]
+        ],
+        "Status": "Hide",
+        "tEST": "vISAs detta??"
       },
       {
         "name": "Karlbergs skola",
@@ -595,7 +626,9 @@
           "2025-11-11",
           "2025-11-18",
           "2025-11-25"
-        ]
+        ],
+        "Status": "Hide",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -614,7 +647,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -633,7 +668,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -652,7 +689,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -671,7 +710,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -690,7 +731,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Hide",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -709,7 +752,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Hide",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -728,7 +773,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -747,7 +794,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -766,7 +815,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -785,7 +836,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -804,7 +857,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -823,7 +878,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -842,7 +899,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -861,7 +920,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Karlbergs skola",
@@ -880,7 +941,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -899,7 +962,9 @@
           "2025-11-10",
           "2025-11-17",
           "2025-11-24"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -918,7 +983,9 @@
           "2025-11-10",
           "2025-11-17",
           "2025-11-24"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -937,7 +1004,9 @@
           "2025-11-10",
           "2025-11-17",
           "2025-11-24"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -956,7 +1025,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -975,7 +1046,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -994,7 +1067,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -1013,7 +1088,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -1032,7 +1109,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -1051,7 +1130,9 @@
           "2025-11-15",
           "2025-11-22",
           "2025-11-29"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -1070,7 +1151,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Johannes skola (övre salen)",
@@ -1089,7 +1172,9 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       },
       {
         "name": "Östermalmsskolan",
@@ -1108,9 +1193,11 @@
           "2025-11-16",
           "2025-11-23",
           "2025-11-30"
-        ]
+        ],
+        "Status": "Accept",
+        "tEST": ""
       }
     ],
-    "updated_at": "2025-09-06T23:06:38.613Z"
+    "updated_at": "2025-09-06T23:28:15.059Z"
   }
 ]
