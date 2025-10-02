@@ -3513,7 +3513,7 @@
         "Status": "Stop"
       }
     ],
-    "updated_at": "2025-10-01T10:11:38.042Z"
+    "updated_at": "2025-10-02T04:47:51.797Z"
   },
   {
     "section": "Parkour",
@@ -3537,7 +3537,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 1",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3558,7 +3560,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 2",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3579,7 +3583,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 3",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3600,7 +3606,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 4",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3621,7 +3629,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 5",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3642,7 +3652,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 6",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3663,7 +3675,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 7",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
@@ -3684,7 +3698,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 8",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Karlbergs skola",
@@ -3700,7 +3716,9 @@
           "2025-10-13",
           "2025-10-20"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 9",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Karlbergs skola",
@@ -3716,7 +3734,9 @@
           "2025-10-13",
           "2025-10-20"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 10",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Karlbergs skola",
@@ -3732,7 +3752,9 @@
           "2025-10-13",
           "2025-10-20"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 11",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Karlbergs skola",
@@ -3753,7 +3775,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 12",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Karlbergs skola",
@@ -3774,7 +3798,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 13",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gustav Vasa skola (övre salen)",
@@ -3795,7 +3821,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 14",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gustav Vasa skola (övre salen)",
@@ -3816,7 +3844,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 15",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gustav Vasa skola (övre salen)",
@@ -3837,7 +3867,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 16",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gustav Vasa skola (nedre salen)",
@@ -3858,7 +3890,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 17",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gustav Vasa skola (nedre salen)",
@@ -3879,7 +3913,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 18",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gustav Vasa skola (nedre salen)",
@@ -3900,7 +3936,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 19",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gärdeshallen (Motionssalen)",
@@ -3921,7 +3959,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 20",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gärdeshallen (Motionssalen)",
@@ -3942,7 +3982,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 21",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gärdeshallen (Motionssalen)",
@@ -3963,7 +4005,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 22",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Gärdeshallen (Motionssalen)",
@@ -3984,7 +4028,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 23",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Östermalmsskolan",
@@ -4005,7 +4051,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 24",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Östermalmsskolan",
@@ -4026,7 +4074,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 25",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Globala Gymnasiet (Gymnastiksal)",
@@ -4047,7 +4097,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 26",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Globala Gymnasiet (Gymnastiksal)",
@@ -4068,7 +4120,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 27",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Globala Gymnasiet (Gymnastiksal)",
@@ -4089,7 +4143,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 28",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4110,7 +4166,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 29",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4131,7 +4189,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 30",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4152,7 +4212,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 31",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4173,7 +4235,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 32",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4194,7 +4258,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 33",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4215,7 +4281,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 34",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4236,7 +4304,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 35",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4257,7 +4327,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 36",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4278,7 +4350,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 37",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4299,7 +4373,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 38",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -4320,7 +4396,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 39",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Norra skola",
@@ -4341,7 +4419,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 40",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Norra skola",
@@ -4362,7 +4442,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 41",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Norra skola",
@@ -4383,7 +4465,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 42",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Norra skola",
@@ -4404,7 +4488,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 43",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Norra skola",
@@ -4425,7 +4511,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 44",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Norra skola",
@@ -4446,7 +4534,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 45",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4467,7 +4557,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 46",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4488,7 +4580,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 47",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4509,7 +4603,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 48",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4530,7 +4626,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 49",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4551,7 +4649,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 50",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4572,7 +4672,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 51",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Katarina Södra skola (friliggande gymnastiksalen)",
@@ -4593,7 +4695,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 52",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Södermalmsskolan",
@@ -4614,7 +4718,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 53",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Södermalmsskolan",
@@ -4635,7 +4741,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 54",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Södermalmsskolan",
@@ -4656,7 +4764,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 55",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Södermalmsskolan",
@@ -4677,7 +4787,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 56",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Eiraskolan",
@@ -4693,7 +4805,9 @@
           "2025-10-14",
           "2025-10-21"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 57",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Eiraskolan",
@@ -4709,7 +4823,9 @@
           "2025-10-14",
           "2025-10-21"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 58",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Essinge Skola",
@@ -4730,7 +4846,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 59",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Essinge Skola",
@@ -4751,7 +4869,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 60",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Essinge Skola",
@@ -4772,7 +4892,9 @@
           "2025-11-26",
           "2025-12-03"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 61",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Herrängens skola",
@@ -4793,7 +4915,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 62",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Herrängens skola",
@@ -4814,7 +4938,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 63",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Herrängens skola",
@@ -4835,7 +4961,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 64",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Herrängens skola",
@@ -4856,7 +4984,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 65",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -4877,7 +5007,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 66",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Johannes skola (nedre salen)",
@@ -4898,7 +5030,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 67",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -4919,7 +5053,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 68",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -4940,7 +5076,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 69",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -4961,7 +5099,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 70",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -4982,7 +5122,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 71",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -5003,7 +5145,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 72",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -5024,7 +5168,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 73",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik B)",
@@ -5045,7 +5191,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 74",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik A)",
@@ -5066,7 +5214,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 75",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik A)",
@@ -5087,7 +5237,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 76",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik A)",
@@ -5108,7 +5260,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 77",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Mälarhöjdens Skola (Gymnastik A)",
@@ -5129,7 +5283,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 78",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5150,7 +5306,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 79",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5171,7 +5329,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 80",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5192,7 +5352,9 @@
           "2025-12-04",
           "2025-12-11"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 81",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5213,7 +5375,9 @@
           "2025-12-04",
           "2025-12-11"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 82",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5234,7 +5398,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 83",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5255,7 +5421,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 84",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Nybohovsskolan",
@@ -5276,7 +5444,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 85",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5297,7 +5467,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 86",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5318,7 +5490,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 87",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5339,7 +5513,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 88",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5360,7 +5536,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 89",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5381,7 +5559,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 90",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5402,7 +5582,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 91",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5423,7 +5605,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 92",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5444,7 +5628,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 93",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hammarby Södra skola (högra salen)",
@@ -5465,7 +5651,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 94",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5486,7 +5674,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 95",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5507,7 +5697,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 96",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5528,7 +5720,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 97",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5549,7 +5743,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 98",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5570,7 +5766,9 @@
           "2025-11-25",
           "2025-12-02"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 99",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5591,7 +5789,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 100",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
@@ -5612,7 +5812,9 @@
           "2025-11-27",
           "2025-12-04"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 101",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5633,7 +5835,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 102",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5654,7 +5858,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 103",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5675,7 +5881,9 @@
           "2025-11-24",
           "2025-12-01"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 104",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5696,7 +5904,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 105",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5717,7 +5927,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 106",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5738,7 +5950,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 107",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5759,7 +5973,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 108",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5780,7 +5996,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 109",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5801,7 +6019,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 110",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5822,7 +6042,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 111",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Skarpatorpsskolan",
@@ -5843,7 +6065,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 112",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hästhagsskolan (Gamla)",
@@ -5864,7 +6088,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 113",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hästhagsskolan (Gamla)",
@@ -5885,7 +6111,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 114",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hästhagsskolan (Gamla)",
@@ -5906,7 +6134,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 115",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Alviksskolan (Hus B, Våning 2)",
@@ -5927,7 +6157,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 116",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Alviksskolan (Hus B, Våning 2)",
@@ -5948,7 +6180,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 117",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Alviksskolan (Hus B, Våning 2)",
@@ -5969,7 +6203,9 @@
           "2025-11-28",
           "2025-12-05"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 118",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Blackebergsskolan (högra salen)",
@@ -5990,7 +6226,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 119",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Blackebergsskolan (högra salen)",
@@ -6011,7 +6249,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 120",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Blackebergsskolan (högra salen)",
@@ -6032,7 +6272,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 121",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Blackebergsskolan (högra salen)",
@@ -6053,7 +6295,9 @@
           "2025-11-29",
           "2025-12-06"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 122",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hässelbyhallen (lilla salen)",
@@ -6074,7 +6318,9 @@
           "2025-12-06",
           "2025-12-13"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 123",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hässelbyhallen (lilla salen)",
@@ -6095,7 +6341,9 @@
           "2025-12-06",
           "2025-12-13"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 124",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hässelbyhallen (lilla salen)",
@@ -6116,7 +6364,9 @@
           "2025-12-06",
           "2025-12-13"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 125",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hässelbyhallen (lilla salen)",
@@ -6137,7 +6387,9 @@
           "2025-12-06",
           "2025-12-13"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 126",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hässelbyhallen (lilla salen)",
@@ -6158,7 +6410,9 @@
           "2025-12-06",
           "2025-12-13"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 127",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Hässelbyhallen (lilla salen)",
@@ -6179,7 +6433,9 @@
           "2025-12-06",
           "2025-12-13"
         ],
-        "Status": "Stop"
+        "Status": "Stop",
+        "Adress": "Testadress 128",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Snättringeskolan",
@@ -6200,7 +6456,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 129",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Snättringeskolan",
@@ -6221,7 +6479,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 130",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Snättringeskolan",
@@ -6242,7 +6502,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 131",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Snättringeskolan",
@@ -6263,7 +6525,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 132",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Snättringeskolan",
@@ -6284,7 +6548,9 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 133",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       },
       {
         "name": "Snättringeskolan",
@@ -6305,9 +6571,11 @@
           "2025-11-30",
           "2025-12-07"
         ],
-        "Status": "Hide"
+        "Status": "Hide",
+        "Adress": "Testadress 134",
+        "Anteckning": "Tips:\n- Ta med vattenflaska\n- Kom i tid (dörren får ej ställas upp av ledarna)\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\n- Vägbeskrivning finns på hemsidan"
       }
     ],
-    "updated_at": "2025-10-01T10:11:38.042Z"
+    "updated_at": "2025-10-02T04:47:51.797Z"
   }
 ]
