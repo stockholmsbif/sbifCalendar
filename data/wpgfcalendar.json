@@ -1,1 +1,50 @@
-
+[
+  {
+    "section": "Bamsegympa & Idrottsskolan",
+    "facilities": [
+      {
+        "name": "Karlbergs skola",
+        "weekday": "tisdagar",
+        "starttime": "17:00",
+        "endtime": "17:40",
+        "dates": [
+          "2025-09-09",
+          "2025-09-16",
+          "2025-09-23",
+          "2025-09-30",
+          "2025-10-07",
+          "2025-10-14",
+          "2025-10-21",
+          "2025-11-04",
+          "2025-11-11",
+          "2025-11-18",
+          "2025-11-25"
+        ],
+        "Status": "Hide",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "tisdagar",
+        "starttime": "17:45",
+        "endtime": "18:25",
+        "dates": [
+          "2025-09-09",
+          "2025-09-16",
+          "2025-09-23",
+          "2025-09-30",
+          "2025-10-07",
+          "2025-10-14",
+          "2025-10-21",
+          "2025-11-04",
+          "2025-11-11",
+          "2025-11-18",
+          "2025-11-25"
+        ],
+        "Status": "Hide",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      }
+    }
+]
