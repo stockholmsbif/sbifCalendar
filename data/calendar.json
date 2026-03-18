@@ -3916,53 +3916,9 @@
         "Status": "Stop",
         "Adress": "Uppvindsgatan 1, 12833, Skarpnäck",
         "Anteckning": "Denna idrottshall hittar du genom att först ta dig till innergårdens basketplan. Sedan letar du efter ingången C1. Där kommer vi stå och öppna för dig, eller så ringer du på ringklockan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Stadshagshallen",
-        "weekday": "fredagar",
-        "starttime": "17:00",
-        "endtime": "17:40",
-        "dates": [
-          "2026-01-23",
-          "2026-01-30",
-          "2026-02-06",
-          "2026-02-13",
-          "2026-02-20",
-          "2026-03-06",
-          "2026-03-13",
-          "2026-03-20",
-          "2026-03-27",
-          "2026-04-17",
-          "2026-04-24"
-        ],
-        "Status": "Accept",
-        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
-        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Stadshagshallen",
-        "weekday": "fredagar",
-        "starttime": "17:40",
-        "endtime": "18:20",
-        "dates": [
-          "2026-01-23",
-          "2026-01-30",
-          "2026-02-06",
-          "2026-02-13",
-          "2026-02-20",
-          "2026-03-06",
-          "2026-03-13",
-          "2026-03-20",
-          "2026-03-27",
-          "2026-04-17",
-          "2026-04-24"
-        ],
-        "Status": "Accept",
-        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
-        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-03-18T10:35:33.827Z"
+    "updated_at": "2026-03-18T10:38:54.677Z"
   },
   {
     "section": "Parkour",
@@ -7235,7 +7191,7 @@
         "Anteckning": "Här håller vi till på baksidan av hallen. När du väl tagit dig till andra sidan så hittar du oss bakom dörr nummer 1.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-03-18T10:35:33.827Z"
+    "updated_at": "2026-03-18T10:38:54.677Z"
   },
   {
     "section": "Alla Kan Gympa",
@@ -7275,6 +7231,6 @@
         "Anteckning": "Den här hallen kan vi själva styra över till en viss del vilket är toppen, men det kommer också med ett ansvar. Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Det finns även en del böcker. Vänligen lämna barnvagnen utanför, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-03-18T10:35:33.827Z"
+    "updated_at": "2026-03-18T10:38:54.677Z"
   }
 ]
