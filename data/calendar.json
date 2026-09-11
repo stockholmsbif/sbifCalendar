@@ -3897,11 +3897,51 @@
         "Anteckning": "Denna idrottshall hittar du genom att först ta dig till innergårdens basketplan. Sedan letar du efter ingången C1. Där kommer vi stå och öppna för dig, eller så ringer du på ringklockan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-08-27T13:14:22.707Z"
+    "updated_at": "2026-09-11T15:16:06.919Z"
   },
   {
     "section": "Parkour",
     "facilities": [
+      {
+        "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
+        "weekday": "måndagar",
+        "starttime": "17:00",
+        "endtime": "17:55",
+        "dates": [
+          "2026-09-28",
+          "2026-10-05",
+          "2026-10-12",
+          "2026-10-19",
+          "2026-11-02",
+          "2026-11-09",
+          "2026-11-16",
+          "2026-11-23",
+          "2026-11-30"
+        ],
+        "Status": "Accept",
+        "Adress": "Västmannagatan 19, 10231, Stockholm",
+        "Anteckning": "Idrottshallen är belägen i Adolf Fredriks Musikklassers skola. Portkoden är 3795. Skolan är en stor gul/beige byggnad och ligger på adressen Västmannagatan 19. Det finns fler ingångar till skolan vilket kan vara lite vilseledande. <br><strong>Gymnastiksal nedre plan (D105)</strong><br>För enklast väg gå in i huvudingången (stor port med gallergrindar), gå rakt över skolgården och in i entré C. Gå ner för trapporna och sedan till höger. Salen ligger rakt fram.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
+        "weekday": "måndagar",
+        "starttime": "18:00",
+        "endtime": "18:55",
+        "dates": [
+          "2026-09-28",
+          "2026-10-05",
+          "2026-10-12",
+          "2026-10-19",
+          "2026-11-02",
+          "2026-11-09",
+          "2026-11-16",
+          "2026-11-23",
+          "2026-11-30"
+        ],
+        "Status": "Accept",
+        "Adress": "Västmannagatan 19, 10231, Stockholm",
+        "Anteckning": "Idrottshallen är belägen i Adolf Fredriks Musikklassers skola. Portkoden är 3795. Skolan är en stor gul/beige byggnad och ligger på adressen Västmannagatan 19. Det finns fler ingångar till skolan vilket kan vara lite vilseledande. <br><strong>Gymnastiksal nedre plan (D105)</strong><br>För enklast väg gå in i huvudingången (stor port med gallergrindar), gå rakt över skolgården och in i entré C. Gå ner för trapporna och sedan till höger. Salen ligger rakt fram.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
       {
         "name": "Adolf Fredriks Musikskola (Sal D105 nedre plan)",
         "weekday": "tisdagar",
@@ -4128,7 +4168,7 @@
           "2026-12-04",
           "2026-12-11"
         ],
-        "Status": "Accept",
+        "Status": "Hide",
         "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
         "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -4174,7 +4214,7 @@
           "2026-12-06",
           "2026-12-13"
         ],
-        "Status": "Accept",
+        "Status": "Hide",
         "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
         "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -5002,7 +5042,7 @@
           "2026-11-23",
           "2026-11-30"
         ],
-        "Status": "Accept",
+        "Status": "Hide",
         "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
         "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -6686,6 +6726,6 @@
         "Anteckning": "Här håller vi till på baksidan av hallen. När du väl tagit dig till andra sidan så hittar du oss bakom dörr nummer 1.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-08-27T13:14:22.707Z"
+    "updated_at": "2026-09-11T15:16:06.919Z"
   }
 ]
