@@ -92,9 +92,339 @@
       },
       {
         "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "09:00",
+        "endtime": "09:40",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "09:45",
+        "endtime": "10:25",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "10:30",
+        "endtime": "11:10",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "11:15",
+        "endtime": "11:55",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "12:45",
+        "endtime": "13:25",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "13:30",
+        "endtime": "14:10",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "14:15",
+        "endtime": "14:55",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Karlbergs skola",
+        "weekday": "söndagar",
+        "starttime": "15:00",
+        "endtime": "15:40",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29",
+          "2026-12-06"
+        ],
+        "Status": "Accept",
+        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
+        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
         "weekday": "lördagar",
-        "starttime": "15:15",
-        "endtime": "15:55",
+        "starttime": "09:00",
+        "endtime": "09:40",
+        "dates": [
+          "2026-09-12",
+          "2026-09-19",
+          "2026-09-26",
+          "2026-10-03",
+          "2026-10-10",
+          "2026-10-17",
+          "2026-10-24",
+          "2026-11-07",
+          "2026-11-14",
+          "2026-11-21",
+          "2026-11-28"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
+        "starttime": "09:45",
+        "endtime": "10:25",
+        "dates": [
+          "2026-09-12",
+          "2026-09-19",
+          "2026-09-26",
+          "2026-10-03",
+          "2026-10-10",
+          "2026-10-17",
+          "2026-10-24",
+          "2026-11-07",
+          "2026-11-14",
+          "2026-11-21",
+          "2026-11-28"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
+        "weekday": "lördagar",
+        "starttime": "10:30",
+        "endtime": "11:10",
+        "dates": [
+          "2026-09-12",
+          "2026-09-19",
+          "2026-09-26",
+          "2026-10-03",
+          "2026-10-10",
+          "2026-10-17",
+          "2026-10-24",
+          "2026-11-07",
+          "2026-11-14",
+          "2026-11-21",
+          "2026-11-28"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
+        "starttime": "09:00",
+        "endtime": "09:40",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
+        "starttime": "09:45",
+        "endtime": "10:25",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
+        "starttime": "10:30",
+        "endtime": "11:10",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Johannes skola (övre salen)",
+        "weekday": "söndagar",
+        "starttime": "11:15",
+        "endtime": "11:55",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Roslagsgatan 61, 11354, Stockholm",
+        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Östermalmsskolan",
+        "weekday": "lördagar",
+        "starttime": "11:15",
+        "endtime": "11:55",
         "dates": [
           "2026-09-19",
           "2026-09-26",
@@ -108,15 +438,15 @@
           "2026-11-28",
           "2026-12-05"
         ],
-        "Status": "Hide",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+        "Status": "Accept",
+        "Adress": "Banérgatan 38, 11526, Stockholm",
+        "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
       {
-        "name": "Karlbergs skola",
+        "name": "Östermalmsskolan",
         "weekday": "lördagar",
-        "starttime": "16:00",
-        "endtime": "16:40",
+        "starttime": "12:00",
+        "endtime": "12:40",
         "dates": [
           "2026-09-19",
           "2026-09-26",
@@ -130,490 +460,6 @@
           "2026-11-28",
           "2026-12-05"
         ],
-        "Status": "Hide",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "09:00",
-        "endtime": "09:40",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "09:45",
-        "endtime": "10:25",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "10:30",
-        "endtime": "11:10",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "11:15",
-        "endtime": "11:55",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "12:00",
-        "endtime": "12:40",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "12:45",
-        "endtime": "13:25",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "13:30",
-        "endtime": "14:10",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "14:15",
-        "endtime": "14:55",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Karlbergs skola",
-        "weekday": "söndagar",
-        "starttime": "15:00",
-        "endtime": "15:40",
-        "dates": [
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29",
-          "2026-12-06"
-        ],
-        "Status": "Accept",
-        "Adress": "Norrbackagatan 31-33, 11334, Stockholm",
-        "Anteckning": "En jättefin gymnastiksal i en separat byggnad på andra sidan skolgården. Inga trappor.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (nedre salen)",
-        "weekday": "måndagar",
-        "starttime": "17:00",
-        "endtime": "17:40",
-        "dates": [
-          "2026-09-07",
-          "2026-09-14",
-          "2026-09-21",
-          "2026-09-28",
-          "2026-10-05",
-          "2026-10-12",
-          "2026-10-19",
-          "2026-11-02",
-          "2026-11-09",
-          "2026-11-16",
-          "2026-11-23"
-        ],
-        "Status": "Hide",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (nedre salen)",
-        "weekday": "måndagar",
-        "starttime": "17:40",
-        "endtime": "18:20",
-        "dates": [
-          "2026-09-07",
-          "2026-09-14",
-          "2026-09-21",
-          "2026-09-28",
-          "2026-10-05",
-          "2026-10-12",
-          "2026-10-19",
-          "2026-11-02",
-          "2026-11-09",
-          "2026-11-16",
-          "2026-11-23"
-        ],
-        "Status": "Hide",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (nedre salen)",
-        "weekday": "måndagar",
-        "starttime": "18:20",
-        "endtime": "19:00",
-        "dates": [
-          "2026-09-07",
-          "2026-09-14",
-          "2026-09-21",
-          "2026-09-28",
-          "2026-10-05",
-          "2026-10-12",
-          "2026-10-19",
-          "2026-11-02",
-          "2026-11-09",
-          "2026-11-16",
-          "2026-11-23"
-        ],
-        "Status": "Hide",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "lördagar",
-        "starttime": "09:00",
-        "endtime": "09:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "lördagar",
-        "starttime": "09:45",
-        "endtime": "10:25",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "lördagar",
-        "starttime": "10:30",
-        "endtime": "11:10",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "lördagar",
-        "starttime": "11:15",
-        "endtime": "11:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "söndagar",
-        "starttime": "09:00",
-        "endtime": "09:40",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "söndagar",
-        "starttime": "09:45",
-        "endtime": "10:25",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "söndagar",
-        "starttime": "10:30",
-        "endtime": "11:10",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Johannes skola (övre salen)",
-        "weekday": "söndagar",
-        "starttime": "11:15",
-        "endtime": "11:55",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Roslagsgatan 61, 11354, Stockholm",
-        "Anteckning": "Gymnastiksalen ligger i en separat byggnad. Denna når man via skolgården. Står man mitt på skolgården så ser man dörren in till byggnaden (den mindre byggnaden vid basketplanen). Ingången är på kortsidan. Man går upp för en liten trappa och in. Sedan finns det en nedre och övre sal.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Östermalmsskolan",
-        "weekday": "lördagar",
-        "starttime": "11:15",
-        "endtime": "11:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Banérgatan 38, 11526, Stockholm",
-        "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Östermalmsskolan",
-        "weekday": "lördagar",
-        "starttime": "12:00",
-        "endtime": "12:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
         "Status": "Accept",
         "Adress": "Banérgatan 38, 11526, Stockholm",
         "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
@@ -624,7 +470,6 @@
         "starttime": "12:45",
         "endtime": "13:25",
         "dates": [
-          "2026-09-12",
           "2026-09-19",
           "2026-09-26",
           "2026-10-03",
@@ -634,75 +479,10 @@
           "2026-11-07",
           "2026-11-14",
           "2026-11-21",
-          "2026-11-28"
+          "2026-11-28",
+          "2026-12-05"
         ],
         "Status": "Accept",
-        "Adress": "Banérgatan 38, 11526, Stockholm",
-        "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Östermalmsskolan",
-        "weekday": "lördagar",
-        "starttime": "13:30",
-        "endtime": "14:10",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Banérgatan 38, 11526, Stockholm",
-        "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Östermalmsskolan",
-        "weekday": "lördagar",
-        "starttime": "14:15",
-        "endtime": "14:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Banérgatan 38, 11526, Stockholm",
-        "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Östermalmsskolan",
-        "weekday": "lördagar",
-        "starttime": "15:00",
-        "endtime": "15:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
         "Adress": "Banérgatan 38, 11526, Stockholm",
         "Anteckning": "Ingången till denna idrottshall ligger precis under trappan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -793,116 +573,6 @@
         "Status": "Accept",
         "Adress": "Parmmätargatan 10, 11224, Stockholm",
         "Anteckning": "Vi håller till i gymnastiksalen som finns på innergården. Det är en låg byggnad med mörkröda glasdörrar.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Essinge Skola",
-        "weekday": "söndagar",
-        "starttime": "09:15",
-        "endtime": "09:55",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Essingestråket 24, 11266, Stockholm",
-        "Anteckning": "Adressen är till skolans huvudingång men vi använder ingången från skolans innergård. Gå förbi lekplatsen, fortsätt åt vänster förbi basketplanen och i hörnet finns ingången A1. Tillkalla ledarna genom att använda ringklockan. Salen är genom omklädningsrummen till vänster efter första trappan upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Essinge Skola",
-        "weekday": "söndagar",
-        "starttime": "10:00",
-        "endtime": "10:40",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Essingestråket 24, 11266, Stockholm",
-        "Anteckning": "Adressen är till skolans huvudingång men vi använder ingången från skolans innergård. Gå förbi lekplatsen, fortsätt åt vänster förbi basketplanen och i hörnet finns ingången A1. Tillkalla ledarna genom att använda ringklockan. Salen är genom omklädningsrummen till vänster efter första trappan upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Essinge Skola",
-        "weekday": "söndagar",
-        "starttime": "10:45",
-        "endtime": "11:25",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Essingestråket 24, 11266, Stockholm",
-        "Anteckning": "Adressen är till skolans huvudingång men vi använder ingången från skolans innergård. Gå förbi lekplatsen, fortsätt åt vänster förbi basketplanen och i hörnet finns ingången A1. Tillkalla ledarna genom att använda ringklockan. Salen är genom omklädningsrummen till vänster efter första trappan upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Essinge Skola",
-        "weekday": "söndagar",
-        "starttime": "11:30",
-        "endtime": "12:10",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Essingestråket 24, 11266, Stockholm",
-        "Anteckning": "Adressen är till skolans huvudingång men vi använder ingången från skolans innergård. Gå förbi lekplatsen, fortsätt åt vänster förbi basketplanen och i hörnet finns ingången A1. Tillkalla ledarna genom att använda ringklockan. Salen är genom omklädningsrummen till vänster efter första trappan upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Essinge Skola",
-        "weekday": "söndagar",
-        "starttime": "12:15",
-        "endtime": "12:55",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Essingestråket 24, 11266, Stockholm",
-        "Anteckning": "Adressen är till skolans huvudingång men vi använder ingången från skolans innergård. Gå förbi lekplatsen, fortsätt åt vänster förbi basketplanen och i hörnet finns ingången A1. Tillkalla ledarna genom att använda ringklockan. Salen är genom omklädningsrummen till vänster efter första trappan upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
       {
         "name": "Stadshagshallen",
@@ -1038,72 +708,6 @@
       },
       {
         "name": "Stadshagshallen",
-        "weekday": "torsdagar",
-        "starttime": "16:30",
-        "endtime": "17:10",
-        "dates": [
-          "2026-09-10",
-          "2026-09-17",
-          "2026-09-24",
-          "2026-10-01",
-          "2026-10-08",
-          "2026-10-15",
-          "2026-10-22",
-          "2026-11-05",
-          "2026-11-12",
-          "2026-11-19",
-          "2026-11-26"
-        ],
-        "Status": "Hide",
-        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
-        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Stadshagshallen",
-        "weekday": "torsdagar",
-        "starttime": "17:10",
-        "endtime": "17:50",
-        "dates": [
-          "2026-09-10",
-          "2026-09-17",
-          "2026-09-24",
-          "2026-10-01",
-          "2026-10-08",
-          "2026-10-15",
-          "2026-10-22",
-          "2026-11-05",
-          "2026-11-12",
-          "2026-11-19",
-          "2026-11-26"
-        ],
-        "Status": "Hide",
-        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
-        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Stadshagshallen",
-        "weekday": "torsdagar",
-        "starttime": "17:50",
-        "endtime": "18:30",
-        "dates": [
-          "2026-09-10",
-          "2026-09-17",
-          "2026-09-24",
-          "2026-10-01",
-          "2026-10-08",
-          "2026-10-15",
-          "2026-10-22",
-          "2026-11-05",
-          "2026-11-12",
-          "2026-11-19",
-          "2026-11-26"
-        ],
-        "Status": "Hide",
-        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
-        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Stadshagshallen",
         "weekday": "lördagar",
         "starttime": "09:15",
         "endtime": "09:55",
@@ -1215,28 +819,6 @@
       {
         "name": "Stadshagshallen",
         "weekday": "söndagar",
-        "starttime": "10:00",
-        "endtime": "10:40",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Stop",
-        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
-        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Stadshagshallen",
-        "weekday": "söndagar",
         "starttime": "10:45",
         "endtime": "11:25",
         "dates": [
@@ -1277,28 +859,6 @@
         "Status": "Accept",
         "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
         "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Högalidsskolan (övre salen)",
-        "weekday": "lördagar",
-        "starttime": "12:00",
-        "endtime": "12:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Folkskolegatan 13, 11735, Stockholm",
-        "Anteckning": "Gå över skolgården mot huvudingången. Det finns två stycken dubbeldörrar. Gå in i den vänstra och upp för trapporna. Nedre ligger på bottenplan till höger och övre en trappa upp. Ingången är genom omklädningsrummen. Hiss saknas.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
       {
         "name": "Högalidsskolan (övre salen)",
@@ -1363,50 +923,6 @@
           "2026-11-28"
         ],
         "Status": "Accept",
-        "Adress": "Folkskolegatan 13, 11735, Stockholm",
-        "Anteckning": "Gå över skolgården mot huvudingången. Det finns två stycken dubbeldörrar. Gå in i den vänstra och upp för trapporna. Nedre ligger på bottenplan till höger och övre en trappa upp. Ingången är genom omklädningsrummen. Hiss saknas.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Högalidsskolan (övre salen)",
-        "weekday": "lördagar",
-        "starttime": "15:00",
-        "endtime": "15:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Folkskolegatan 13, 11735, Stockholm",
-        "Anteckning": "Gå över skolgården mot huvudingången. Det finns två stycken dubbeldörrar. Gå in i den vänstra och upp för trapporna. Nedre ligger på bottenplan till höger och övre en trappa upp. Ingången är genom omklädningsrummen. Hiss saknas.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Högalidsskolan (övre salen)",
-        "weekday": "söndagar",
-        "starttime": "12:05",
-        "endtime": "12:45",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
         "Adress": "Folkskolegatan 13, 11735, Stockholm",
         "Anteckning": "Gå över skolgården mot huvudingången. Det finns två stycken dubbeldörrar. Gå in i den vänstra och upp för trapporna. Nedre ligger på bottenplan till höger och övre en trappa upp. Ingången är genom omklädningsrummen. Hiss saknas.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -1632,50 +1148,6 @@
       },
       {
         "name": "Katarina Norra skola",
-        "weekday": "lördagar",
-        "starttime": "12:15",
-        "endtime": "12:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Tjärhovsgatan 15, 11621, Stockholm",
-        "Anteckning": "Vi har lektioner i gymnastiksalen. Ingången är på den vänstra halvan av byggnaden. Väl inne finns en dörr på vänster sida som leder in till hallen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Katarina Norra skola",
-        "weekday": "lördagar",
-        "starttime": "13:00",
-        "endtime": "13:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Tjärhovsgatan 15, 11621, Stockholm",
-        "Anteckning": "Vi har lektioner i gymnastiksalen. Ingången är på den vänstra halvan av byggnaden. Väl inne finns en dörr på vänster sida som leder in till hallen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Katarina Norra skola",
         "weekday": "söndagar",
         "starttime": "09:15",
         "endtime": "09:55",
@@ -1723,28 +1195,6 @@
         "weekday": "söndagar",
         "starttime": "10:45",
         "endtime": "11:25",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Tjärhovsgatan 15, 11621, Stockholm",
-        "Anteckning": "Vi har lektioner i gymnastiksalen. Ingången är på den vänstra halvan av byggnaden. Väl inne finns en dörr på vänster sida som leder in till hallen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Katarina Norra skola",
-        "weekday": "söndagar",
-        "starttime": "11:30",
-        "endtime": "12:10",
         "dates": [
           "2026-09-13",
           "2026-09-20",
@@ -2050,28 +1500,6 @@
       },
       {
         "name": "Sofiaskolan (lilla salen)",
-        "weekday": "måndagar",
-        "starttime": "17:55",
-        "endtime": "18:35",
-        "dates": [
-          "2026-09-07",
-          "2026-09-14",
-          "2026-09-21",
-          "2026-09-28",
-          "2026-10-05",
-          "2026-10-12",
-          "2026-10-19",
-          "2026-11-02",
-          "2026-11-09",
-          "2026-11-16",
-          "2026-11-23"
-        ],
-        "Status": "Hide",
-        "Adress": "Skånegatan 117, 11635, Stockholm",
-        "Anteckning": "Vänstra byggnaden när man står på skolgården. Ingång kortsidan riktad mot fotbollsplanen, lilla gympasalen ligger på nedervåningen, stora ligger på övervåningen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Sofiaskolan (lilla salen)",
         "weekday": "tisdagar",
         "starttime": "16:45",
         "endtime": "17:25",
@@ -2204,50 +1632,6 @@
       },
       {
         "name": "Sofiaskolan (lilla salen)",
-        "weekday": "lördagar",
-        "starttime": "11:15",
-        "endtime": "11:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Skånegatan 117, 11635, Stockholm",
-        "Anteckning": "Vänstra byggnaden när man står på skolgården. Ingång kortsidan riktad mot fotbollsplanen, lilla gympasalen ligger på nedervåningen, stora ligger på övervåningen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Sofiaskolan (lilla salen)",
-        "weekday": "lördagar",
-        "starttime": "12:00",
-        "endtime": "12:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Skånegatan 117, 11635, Stockholm",
-        "Anteckning": "Vänstra byggnaden när man står på skolgården. Ingång kortsidan riktad mot fotbollsplanen, lilla gympasalen ligger på nedervåningen, stora ligger på övervåningen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Sofiaskolan (lilla salen)",
         "weekday": "söndagar",
         "starttime": "09:15",
         "endtime": "09:55",
@@ -2335,28 +1719,6 @@
         "Anteckning": "Vänstra byggnaden när man står på skolgården. Ingång kortsidan riktad mot fotbollsplanen, lilla gympasalen ligger på nedervåningen, stora ligger på övervåningen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
       {
-        "name": "Sofiaskolan (lilla salen)",
-        "weekday": "söndagar",
-        "starttime": "12:15",
-        "endtime": "12:55",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Skånegatan 117, 11635, Stockholm",
-        "Anteckning": "Vänstra byggnaden när man står på skolgården. Ingång kortsidan riktad mot fotbollsplanen, lilla gympasalen ligger på nedervåningen, stora ligger på övervåningen.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
         "name": "Ålstensskolan",
         "weekday": "lördagar",
         "starttime": "09:15",
@@ -2419,50 +1781,6 @@
           "2026-11-28"
         ],
         "Status": "Accept",
-        "Adress": "Nyängsvägen 72-80, 16764, Stockholm",
-        "Anteckning": "Vid skolans stora klocka hittar ni ingången A1. Hallen hittar ni en trappa upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Ålstensskolan",
-        "weekday": "lördagar",
-        "starttime": "11:30",
-        "endtime": "12:10",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Nyängsvägen 72-80, 16764, Stockholm",
-        "Anteckning": "Vid skolans stora klocka hittar ni ingången A1. Hallen hittar ni en trappa upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Ålstensskolan",
-        "weekday": "lördagar",
-        "starttime": "12:15",
-        "endtime": "12:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
         "Adress": "Nyängsvägen 72-80, 16764, Stockholm",
         "Anteckning": "Vid skolans stora klocka hittar ni ingången A1. Hallen hittar ni en trappa upp.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -2666,28 +1984,6 @@
       },
       {
         "name": "Vällingbyskolan (Gymnastik 1 plan 1)",
-        "weekday": "lördagar",
-        "starttime": "12:00",
-        "endtime": "12:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Offerdalsgatan 1-9, 16212, Vällingby",
-        "Anteckning": "Kommer man från Offerdalsgatan så finns en stor tavla som visar vart idrottssalarna ligger, nämligen hus D. Det finns flera ingångar som går till olika omklädningsrum. Genom omklädningsrummen kommer man vidare till en korridor. Korridoren leder till Hall 1, medan man behöver ta trapporna till hall 2 och 3. Hiss saknas.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Vällingbyskolan (Gymnastik 1 plan 1)",
         "weekday": "söndagar",
         "starttime": "09:30",
         "endtime": "10:10",
@@ -2757,28 +2053,6 @@
         "weekday": "söndagar",
         "starttime": "11:45",
         "endtime": "12:25",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Offerdalsgatan 1-9, 16212, Vällingby",
-        "Anteckning": "Kommer man från Offerdalsgatan så finns en stor tavla som visar vart idrottssalarna ligger, nämligen hus D. Det finns flera ingångar som går till olika omklädningsrum. Genom omklädningsrummen kommer man vidare till en korridor. Korridoren leder till Hall 1, medan man behöver ta trapporna till hall 2 och 3. Hiss saknas.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Vällingbyskolan (Gymnastik 1 plan 1)",
-        "weekday": "söndagar",
-        "starttime": "12:30",
-        "endtime": "13:10",
         "dates": [
           "2026-09-13",
           "2026-09-20",
@@ -2953,28 +2227,6 @@
       {
         "name": "Nybohovsskolan",
         "weekday": "lördagar",
-        "starttime": "12:15",
-        "endtime": "12:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Nybohovsskolan",
-        "weekday": "lördagar",
         "starttime": "13:00",
         "endtime": "13:40",
         "dates": [
@@ -2991,28 +2243,6 @@
           "2026-11-28"
         ],
         "Status": "Accept",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Nybohovsskolan",
-        "weekday": "lördagar",
-        "starttime": "13:45",
-        "endtime": "14:25",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
         "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
         "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -3127,116 +2357,6 @@
         "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
       {
-        "name": "Nybohovsskolan",
-        "weekday": "söndagar",
-        "starttime": "13:00",
-        "endtime": "13:40",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Nybohovsskolan",
-        "weekday": "söndagar",
-        "starttime": "13:45",
-        "endtime": "14:25",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Nybohovsskolan",
-        "weekday": "söndagar",
-        "starttime": "14:30",
-        "endtime": "15:10",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Nybohovsskolan",
-        "weekday": "söndagar",
-        "starttime": "15:15",
-        "endtime": "15:55",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Nybohovsskolan",
-        "weekday": "söndagar",
-        "starttime": "16:00",
-        "endtime": "16:40",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
-        "Adress": "Nybohovsbacken 57-59, 11764, Stockholm",
-        "Anteckning": "När du gått förbi fontänen och har fotbollsplanen till vänster så kommer du se några stora vita streck på marken. Följ den vägen. Idrottshallen hittar du runt dess hörn.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
         "name": "Mälarhöjdens Skola (Gymnastik A)",
         "weekday": "lördagar",
         "starttime": "13:10",
@@ -3261,28 +2381,6 @@
       {
         "name": "Mälarhöjdens Skola (Gymnastik A)",
         "weekday": "lördagar",
-        "starttime": "13:50",
-        "endtime": "14:30",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Accept",
-        "Adress": "Lugntorpsvägen 2, 12944, Hägersten",
-        "Anteckning": "När du väl kommit till mitten av skolgården så finns alla dörrar markerade. Ingången till “Gymnastik A” heter E3 och till “Gymnastik B” heter E2. Hallen hittar du en trappa upp. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Mälarhöjdens Skola (Gymnastik A)",
-        "weekday": "lördagar",
         "starttime": "14:30",
         "endtime": "15:10",
         "dates": [
@@ -3341,6 +2439,72 @@
           "2026-11-14",
           "2026-11-21",
           "2026-11-28"
+        ],
+        "Status": "Accept",
+        "Adress": "Lugntorpsvägen 2, 12944, Hägersten",
+        "Anteckning": "När du väl kommit till mitten av skolgården så finns alla dörrar markerade. Ingången till “Gymnastik A” heter E3 och till “Gymnastik B” heter E2. Hallen hittar du en trappa upp. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Mälarhöjdens Skola (Gymnastik B)",
+        "weekday": "söndagar",
+        "starttime": "15:15",
+        "endtime": "15:55",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Lugntorpsvägen 2, 12944, Hägersten",
+        "Anteckning": "När du väl kommit till mitten av skolgården så finns alla dörrar markerade. Ingången till “Gymnastik A” heter E3 och till “Gymnastik B” heter E2. Hallen hittar du en trappa upp. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Mälarhöjdens Skola (Gymnastik B)",
+        "weekday": "söndagar",
+        "starttime": "16:00",
+        "endtime": "16:40",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Lugntorpsvägen 2, 12944, Hägersten",
+        "Anteckning": "När du väl kommit till mitten av skolgården så finns alla dörrar markerade. Ingången till “Gymnastik A” heter E3 och till “Gymnastik B” heter E2. Hallen hittar du en trappa upp. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Mälarhöjdens Skola (Gymnastik B)",
+        "weekday": "söndagar",
+        "starttime": "16:45",
+        "endtime": "17:25",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
         ],
         "Status": "Accept",
         "Adress": "Lugntorpsvägen 2, 12944, Hägersten",
@@ -3414,72 +2578,6 @@
       },
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
-        "weekday": "fredagar",
-        "starttime": "16:30",
-        "endtime": "17:10",
-        "dates": [
-          "2026-09-11",
-          "2026-09-18",
-          "2026-09-25",
-          "2026-10-02",
-          "2026-10-09",
-          "2026-10-16",
-          "2026-10-23",
-          "2026-11-06",
-          "2026-11-13",
-          "2026-11-20",
-          "2026-11-27"
-        ],
-        "Status": "Hide",
-        "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
-        "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Kärrtorpshallen (Motionsrum övre)",
-        "weekday": "fredagar",
-        "starttime": "17:15",
-        "endtime": "17:55",
-        "dates": [
-          "2026-09-11",
-          "2026-09-18",
-          "2026-09-25",
-          "2026-10-02",
-          "2026-10-09",
-          "2026-10-16",
-          "2026-10-23",
-          "2026-11-06",
-          "2026-11-13",
-          "2026-11-20",
-          "2026-11-27"
-        ],
-        "Status": "Hide",
-        "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
-        "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Kärrtorpshallen (Motionsrum övre)",
-        "weekday": "fredagar",
-        "starttime": "18:00",
-        "endtime": "18:40",
-        "dates": [
-          "2026-09-11",
-          "2026-09-18",
-          "2026-09-25",
-          "2026-10-02",
-          "2026-10-09",
-          "2026-10-16",
-          "2026-10-23",
-          "2026-11-06",
-          "2026-11-13",
-          "2026-11-20",
-          "2026-11-27"
-        ],
-        "Status": "Hide",
-        "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
-        "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Kärrtorpshallen (Motionsrum övre)",
         "weekday": "lördagar",
         "starttime": "10:00",
         "endtime": "10:40",
@@ -3541,28 +2639,6 @@
           "2026-11-28"
         ],
         "Status": "Accept",
-        "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
-        "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Kärrtorpshallen (Motionsrum övre)",
-        "weekday": "lördagar",
-        "starttime": "12:15",
-        "endtime": "12:55",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
         "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
         "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -3679,28 +2755,6 @@
       {
         "name": "Kärrtorpshallen (Motionsrum övre)",
         "weekday": "söndagar",
-        "starttime": "13:00",
-        "endtime": "13:40",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Accept",
-        "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
-        "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Kärrtorpshallen (Motionsrum övre)",
-        "weekday": "söndagar",
         "starttime": "13:45",
         "endtime": "14:25",
         "dates": [
@@ -3739,28 +2793,6 @@
           "2026-11-29"
         ],
         "Status": "Accept",
-        "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
-        "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Kärrtorpshallen (Motionsrum övre)",
-        "weekday": "söndagar",
-        "starttime": "15:15",
-        "endtime": "15:55",
-        "dates": [
-          "2026-09-13",
-          "2026-09-20",
-          "2026-09-27",
-          "2026-10-04",
-          "2026-10-11",
-          "2026-10-18",
-          "2026-10-25",
-          "2026-11-08",
-          "2026-11-15",
-          "2026-11-22",
-          "2026-11-29"
-        ],
-        "Status": "Hide",
         "Adress": "Karlsövägen 9 - 15, 12106, Johanneshov",
         "Anteckning": "Ingången är en glasdörr på bortre sidan av parkeringen. Det finns två omklänningrum en trappa upp till höger.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       },
@@ -3873,31 +2905,9 @@
         "Status": "Accept",
         "Adress": "Uppvindsgatan 1, 12833, Skarpnäck",
         "Anteckning": "Denna idrottshall hittar du genom att först ta dig till innergårdens basketplan. Sedan letar du efter ingången C1. Där kommer vi stå och öppna för dig, eller så ringer du på ringklockan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
-      },
-      {
-        "name": "Skarpatorpsskolan",
-        "weekday": "lördagar",
-        "starttime": "13:00",
-        "endtime": "13:40",
-        "dates": [
-          "2026-09-12",
-          "2026-09-19",
-          "2026-09-26",
-          "2026-10-03",
-          "2026-10-10",
-          "2026-10-17",
-          "2026-10-24",
-          "2026-11-07",
-          "2026-11-14",
-          "2026-11-21",
-          "2026-11-28"
-        ],
-        "Status": "Hide",
-        "Adress": "Uppvindsgatan 1, 12833, Skarpnäck",
-        "Anteckning": "Denna idrottshall hittar du genom att först ta dig till innergårdens basketplan. Sedan letar du efter ingången C1. Där kommer vi stå och öppna för dig, eller så ringer du på ringklockan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-10-21T13:13:57.952Z"
+    "updated_at": "2026-10-21T13:15:50.254Z"
   },
   {
     "section": "Parkour",
@@ -6778,6 +5788,6 @@
         "Anteckning": "Här håller vi till på baksidan av hallen. När du väl tagit dig till andra sidan så hittar du oss bakom dörr nummer 1.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-10-21T13:13:57.952Z"
+    "updated_at": "2026-10-21T13:15:50.254Z"
   }
 ]
