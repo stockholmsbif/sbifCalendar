@@ -819,6 +819,28 @@
       {
         "name": "Stadshagshallen",
         "weekday": "söndagar",
+        "starttime": "10:00",
+        "endtime": "10:40",
+        "dates": [
+          "2026-09-13",
+          "2026-09-20",
+          "2026-09-27",
+          "2026-10-04",
+          "2026-10-11",
+          "2026-10-18",
+          "2026-10-25",
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22",
+          "2026-11-29"
+        ],
+        "Status": "Accept",
+        "Adress": "Lindhagensterrassen 13, 11218, Stockholm",
+        "Anteckning": "Vänligen följ anvisningarna kring skogräns och hjälp till att hålla rent. Låt inte barnen leka med inredningen och lämna barnvagnen utanför för allas trevnad, det går att låsa fast den vid cykelställen. \\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
+      },
+      {
+        "name": "Stadshagshallen",
+        "weekday": "söndagar",
         "starttime": "10:45",
         "endtime": "11:25",
         "dates": [
@@ -2907,7 +2929,7 @@
         "Anteckning": "Denna idrottshall hittar du genom att först ta dig till innergårdens basketplan. Sedan letar du efter ingången C1. Där kommer vi stå och öppna för dig, eller så ringer du på ringklockan.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-10-21T13:15:50.254Z"
+    "updated_at": "2026-10-21T13:17:13.488Z"
   },
   {
     "section": "Parkour",
@@ -5788,6 +5810,6 @@
         "Anteckning": "Här håller vi till på baksidan av hallen. När du väl tagit dig till andra sidan så hittar du oss bakom dörr nummer 1.\\n\\nTips:\\n- Ta med fylld vattenflaska\\n- Kom i tid (dörren får ej ställas upp av ledarna)\\n- Glömt något? Ta kontakt med skolan dagen efter, ledarna samlar inte in kvarglömt\\n- Vägbeskrivning finns på hemsidan, adressen leder endast till huvudingången, inte gymnastiksalen.\\n- https://stockholmsbif.se/vagbeskrivningar/"
       }
     ],
-    "updated_at": "2026-10-21T13:15:50.254Z"
+    "updated_at": "2026-10-21T13:17:13.488Z"
   }
 ]
